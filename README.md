@@ -46,6 +46,9 @@
   <a href="#" title="Ximvhs">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=ximvhs&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
+  <p align="center"> 
+    <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+  </p>
 </div>
 
 <br>
