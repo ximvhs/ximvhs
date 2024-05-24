@@ -1,8 +1,8 @@
 <!-- Trungquandev -->
 <a href="#" target="_blank">
-<h2 align="center">Hi 👋, I'm TienNHM</h2>
+<h2 align="center">Hi 👋, I'm Ximvhs</h2>
 <p align="center">
-  <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
+  <h3 align="center">A passionate developer from Vietnam </h3>
 </p>
   <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
 </a>
@@ -36,9 +36,12 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
 &nbsp;
-<p align="center"> 
+<br>
+  <p align="center"> 
     <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
-</p>
+  </p>
+<br>
+
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
