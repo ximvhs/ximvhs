@@ -1,5 +1,9 @@
 <!-- Trungquandev -->
 <a href="#" target="_blank">
+<h2 align="center">Hi 👋, I'm TienNHM</h2>
+<p align="center">
+  <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
+</p>
   <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
 </a>
 
