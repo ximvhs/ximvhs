@@ -4,9 +4,6 @@
 <p align="center">
   <h3 align="center">A passionate developer from Vietnam </h3>
 </p>
-  <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
-</a>
-
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
@@ -36,11 +33,11 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
 &nbsp;
+&nbsp;
 <br>
-  <p align="center"> 
+  <div align="center"> 
     <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
-  </p>
-<br>
+  </div>
 
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
