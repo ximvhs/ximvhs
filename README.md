@@ -59,7 +59,7 @@
   <a href="https://www.facebook.com/ximvhs/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
   </a>
-  <a href="#" target="blank">
+  <a href="https://www.linkedin.com/in/vu-hong-son/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
   </a>
   <a href="https://www.instagram.com/_ximvhs_/" target="blank">
